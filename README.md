@@ -1,4 +1,4 @@
-# Applications_Linked_Lists
+# Applications_Linked_Lists 🚀
 
 This repository demonstrates various practical applications of **linked lists** in C. Linked lists are fundamental data structures that allow efficient memory usage and flexible insertions/deletions, making them ideal for a range of algorithmic problems.
 
